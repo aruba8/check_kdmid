@@ -125,5 +125,6 @@ dmypy.json
 
 .vscode/
 .idea/
-*.txt
+20*.txt
+latest.txt
 test.json
